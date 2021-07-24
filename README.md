@@ -41,7 +41,7 @@ ___
 
 #### Youtube: 
 visual studio 2019 c# Nlog
-
+https://youtu.be/4MsfY5ezTOA
 
 #### Screenshot:
 
