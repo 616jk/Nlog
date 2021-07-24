@@ -1,0 +1,11 @@
+C:\Git\Nlog\Nlog\Nlog\bin\Debug\NLog.config
+C:\Git\Nlog\Nlog\Nlog\bin\Debug\Nlog.exe.config
+C:\Git\Nlog\Nlog\Nlog\bin\Debug\Nlog.exe
+C:\Git\Nlog\Nlog\Nlog\bin\Debug\Nlog.pdb
+C:\Git\Nlog\Nlog\Nlog\bin\Debug\NLog.dll
+C:\Git\Nlog\Nlog\Nlog\bin\Debug\NLog.xml
+C:\Git\Nlog\Nlog\Nlog\obj\Debug\Nlog.csprojAssemblyReference.cache
+C:\Git\Nlog\Nlog\Nlog\obj\Debug\Nlog.csproj.CoreCompileInputs.cache
+C:\Git\Nlog\Nlog\Nlog\obj\Debug\Nlog.csproj.CopyComplete
+C:\Git\Nlog\Nlog\Nlog\obj\Debug\Nlog.exe
+C:\Git\Nlog\Nlog\Nlog\obj\Debug\Nlog.pdb
